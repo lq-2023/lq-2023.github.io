@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-The following is a preliminary program of the LQ 2023 Tutorial+Workshop event.
+The following is the final program of the LQ 2023 Tutorial+Workshop event.
 
 When: Monday, September 18, 2023
 
