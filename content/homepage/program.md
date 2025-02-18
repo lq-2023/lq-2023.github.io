@@ -10,8 +10,6 @@ When: Monday, September 18, 2023
 
 Where: [Aula 9I](https://www.polito.it/ateneo/chi-siamo/sedi-e-mappe?sellocale=bl_id%253DTO_CIT08%2526fl_id%253DXS01%2526rm_id%253D010&lang=it)
 
-{{< rawhtml >}}
-
 <table class="mytable">
 
 <tr> <td>  </td> <td> 08:30 </td> <td> 09:00 </td> <td> Registration</td></tr>
@@ -30,5 +28,3 @@ Where: [Aula 9I](https://www.polito.it/ateneo/chi-siamo/sedi-e-mappe?sellocale=b
 <tr> <td>  17:10 </td> <td> 17:30 </td> <td> <a href="proceedings/Moreo2023">Multi-Label Quantification</a>, by Alejandro Moreo (National Council of Research, IT), Manuel Francisco (University of Granada, ES), and Fabrizio Sebastiani (National Council of Research, IT) </td></tr>
 <tr> <td> Chair: Alejandro Moreo </td> <td> 17:30 </td> <td> 18:00 </td> <td> Open discussion</td></tr>
 </table>
-
-{{< /rawhtml >}}
